@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yuliya\\source\\repos\\primeAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D2E167-F8FF-4075-BB78-F4F639A67897}|primeAlgorithm.vcxproj|C:\\Users\\Yuliya\\source\\repos\\primeAlgorithm\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D2E167-F8FF-4075-BB78-F4F639A67897}|primeAlgorithm.vcxproj|solutionrelative:Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cpp",
+              "DocumentMoniker": "C:\\Users\\Yuliya\\source\\repos\\primeAlgorithm\\Test.cpp",
+              "RelativeDocumentMoniker": "Test.cpp",
+              "ToolTip": "C:\\Users\\Yuliya\\source\\repos\\primeAlgorithm\\Test.cpp",
+              "RelativeToolTip": "Test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T02:32:41.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
